@@ -1,7 +1,7 @@
 inherit kf5
 
 NAME="kf5-threadweaver"
-VERSION=5.10.0
+VERSION=5.12.0
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="KDE 5 multithreading library"
