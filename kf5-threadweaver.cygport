@@ -1,14 +1,14 @@
 inherit kf5
 
 NAME="kf5-threadweaver"
-VERSION=5.12.0
+VERSION=5.27.0
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="KDE 5 multithreading library"
 DESCRIPTION="ThreadWeaver is a helper for multithreaded programming.  It uses
 a job-based interface to queue tasks and execute them in an efficient way."
 
-PATCH_URI="5.9.0-cygwin.patch"
+PATCH_URI="5.27.0-cygwin.patch"
 
 PKG_NAMES="libKF5ThreadWeaver5 libKF5ThreadWeaver-devel"
 libKF5ThreadWeaver5_CONTENTS="
